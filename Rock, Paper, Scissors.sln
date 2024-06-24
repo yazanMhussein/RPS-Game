@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rock, Paper, Scissors", "Rock, Paper, Scissors\Rock, Paper, Scissors.csproj", "{B8291791-AB83-403B-953C-6A6C0A704FA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rock-Paper-Scissors", "Rock, Paper, Scissors\Rock-Paper-Scissors.csproj", "{B8291791-AB83-403B-953C-6A6C0A704FA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPSGameTests", "RPSGameTests\RPSGameTests.csproj", "{BC716AC4-80C4-4227-80A9-ADB8A67E09D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B8291791-AB83-403B-953C-6A6C0A704FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8291791-AB83-403B-953C-6A6C0A704FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8291791-AB83-403B-953C-6A6C0A704FA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC716AC4-80C4-4227-80A9-ADB8A67E09D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC716AC4-80C4-4227-80A9-ADB8A67E09D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC716AC4-80C4-4227-80A9-ADB8A67E09D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC716AC4-80C4-4227-80A9-ADB8A67E09D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
